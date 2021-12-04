@@ -14,7 +14,7 @@ Patch0:		%{name}-update.patch
 URL:		https://github.com/thkukuk/libnss_nisplus
 BuildRequires:	autoconf >= 2.50
 BuildRequires:	automake >= 1:1.9
-BuildRequires:	libnsl-devel
+BuildRequires:	libnsl-devel < 2
 BuildRequires:	libtirpc-devel
 BuildRequires:	libtool >= 2:2
 BuildRequires:	pkgconfig
