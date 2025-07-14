@@ -41,7 +41,7 @@ Uwaga: kod NIS+ jest przestarzały i nie powinien być już używany.
 
 %prep
 %setup -q -n libnss_nisplus-libnss_nisplus-%{version}
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 %{__libtoolize}
