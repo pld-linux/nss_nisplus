@@ -3,7 +3,7 @@ Summary(es.UTF-8):	Módulo NIS+ NSS de glibc
 Summary(pl.UTF-8):	Moduł glibc NSS NIS+ (PRZESTARZAŁY)
 Name:		nss_nisplus
 Version:	1.3
-Release:	1
+Release:	2
 Epoch:		7
 License:	LGPL v2.1+
 Group:		Base
